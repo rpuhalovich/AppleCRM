@@ -1,0 +1,8 @@
+client/node_modules/
+client/acrm_semanticui_theme/
+
+node_modules/
+dist/
+
+package.json
+tailwind.min.css
